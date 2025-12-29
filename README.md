@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable backend systems using Java, Spring Boot, Microservices, and integrating secure APIs with modern architectures.<br>
-🤝 I’m looking to collaborate on: <br>Enterprise-grade backend projects, REST API development, system design, and performance-optimized applications.<br>
+🤝 I’m looking to collaborate on: Enterprise-grade backend projects, REST API development, system design, and performance-optimized applications.<br>
 🤝 I’m looking for help with: Advanced system architecture, cloud-native solutions, and optimizing large-scale Java applications.<br>
 🌱 I’m currently learning: Advanced System Design, Microservices Optimization, Cloud Architecture, and DevOps best practices.<br>
 💬 Ask me about: Java, Spring Boot, REST APIs, Microservices, Backend Architecture, SQL/NoSQL databases, and clean coding practices.<br>
